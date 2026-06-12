@@ -1,17 +1,18 @@
 # 🎮 Video Game Review Analysis — Metacritic Dataset
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-3.0.2-150458?logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3.0.3-150458?logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-4C72B0)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.8-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.9-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > Exploring the gap between what critics score and what players feel — across genres, studios, ratings, and two decades of game releases.
 
 <div align="center">
-  <img src="[https://github.com/user-attachments/assets/41c01b27-5b51-4623-a728-d23ef19aae30" width="48%](https://github.com/user-attachments/assets/7fbaaff5-592b-4188-8a61-fde68ca6f422)"/>
-  <img src="[https://github.com/user-attachments/assets/b8a096ef-6493-4061-b473-586ce2ca87ec](https://github.com/user-attachments/assets/dc10a439-8f5b-457b-93ad-1746b69dafce)" width="48%"/>
-  
+  <img src="https://github.com/user-attachments/assets/09d07a45-9f1c-4b29-a64e-1bfbb67beaa8" width="48%"/>
+  <img src="https://github.com/user-attachments/assets/dd75ae9f-3a34-4734-b0df-a7626505b52e" width="48%"/>
+</div>
+
 ---
 
 ## 📌 Overview
