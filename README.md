@@ -9,8 +9,11 @@
 > Exploring the gap between what critics score and what players feel — across genres, studios, ratings, and two decades of game releases.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/09d07a45-9f1c-4b29-a64e-1bfbb67beaa8" width="48%"/>
-  <img src="https://github.com/user-attachments/assets/dd75ae9f-3a34-4734-b0df-a7626505b52e" width="48%"/>
+  <figure>
+    <img src="https://github.com/user-attachments/assets/09d07a45-9f1c-4b29-a64e-1bfbb67beaa8" width="48%"/>
+    <img src="https://github.com/user-attachments/assets/dd75ae9f-3a34-4734-b0df-a7626505b52e" width="48%"/>
+    <figcaption>Figure 1: Videogames' score trends across years with metacritic scores and userscores  |  Figure 2: Genres list showing the top genres based on metscores and userscores.</figcaption>
+  </figure>
 </div>
 
 ---
